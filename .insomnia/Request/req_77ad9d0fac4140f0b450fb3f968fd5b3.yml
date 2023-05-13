@@ -1,0 +1,31 @@
+_id: req_77ad9d0fac4140f0b450fb3f968fd5b3
+type: Request
+parentId: fld_bf4b3f8ac507466ab7b607ae77100aac
+modified: 1684020044260
+created: 1684019989204
+url: "{{ _.BASE_URL }}/reservations/645ffbf1b3f4e920b8be9882"
+name: Update
+description: ""
+method: PATCH
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"startDate": "2023-06-15",
+    	"endtDate": "2023-12-22",
+    	"placeId": "12345",
+    	"invoiceId": "12345"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1683919222848.125
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

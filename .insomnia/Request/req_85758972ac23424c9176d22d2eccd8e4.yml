@@ -1,0 +1,31 @@
+_id: req_85758972ac23424c9176d22d2eccd8e4
+type: Request
+parentId: fld_bf4b3f8ac507466ab7b607ae77100aac
+modified: 1684019989170
+created: 1684019989170
+url: "{{ _.BASE_URL }}/reservations"
+name: Create
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"startDate": "2023-05-15",
+    	"endtDate": "2023-05-22",
+    	"placeId": "12345",
+    	"invoiceId": "12345"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1684011904367
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

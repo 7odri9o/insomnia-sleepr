@@ -1,0 +1,21 @@
+_id: req_eb744b6803a443d69632d4d0dbf2ce93
+type: Request
+parentId: fld_bf4b3f8ac507466ab7b607ae77100aac
+modified: 1684019989182
+created: 1684019989182
+url: "{{ _.BASE_URL }}/reservations"
+name: List
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1683826541329.25
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

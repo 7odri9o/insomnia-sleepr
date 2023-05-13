@@ -1,0 +1,21 @@
+_id: req_aa7008e4072a4fd6bbf7ec03530d398e
+type: Request
+parentId: fld_bf4b3f8ac507466ab7b607ae77100aac
+modified: 1684020069441
+created: 1684019989209
+url: "{{ _.BASE_URL }}/reservations/64601b3563f53a3c752f2596"
+name: Delete
+description: ""
+method: DELETE
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1683687519050.9375
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

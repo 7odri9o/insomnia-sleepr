@@ -1,0 +1,21 @@
+_id: req_293ae5499a8d4cb4969b5f8e948e0133
+type: Request
+parentId: fld_bf4b3f8ac507466ab7b607ae77100aac
+modified: 1684020065045
+created: 1684019989194
+url: "{{ _.BASE_URL }}/reservations/64601b3563f53a3c752f2596"
+name: Find
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1683733859810.375
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
