@@ -1,7 +1,7 @@
 _id: req_85758972ac23424c9176d22d2eccd8e4
 type: Request
 parentId: fld_bf4b3f8ac507466ab7b607ae77100aac
-modified: 1684019989170
+modified: 1684025913780
 created: 1684019989170
 url: "{{ _.BASE_URL }}/reservations"
 name: Create
@@ -12,7 +12,7 @@ body:
   text: |-
     {
     	"startDate": "2023-05-15",
-    	"endtDate": "2023-05-22",
+    	"endDate": "2023-05-22",
     	"placeId": "12345",
     	"invoiceId": "12345"
     }
