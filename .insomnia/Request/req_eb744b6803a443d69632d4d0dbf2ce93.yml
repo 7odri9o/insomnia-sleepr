@@ -1,9 +1,9 @@
 _id: req_eb744b6803a443d69632d4d0dbf2ce93
 type: Request
 parentId: fld_bf4b3f8ac507466ab7b607ae77100aac
-modified: 1684019989182
+modified: 1684158200967
 created: 1684019989182
-url: "{{ _.BASE_URL }}/reservations"
+url: "{{ _.RESERVATIONS_BASE_URL }}/reservations"
 name: List
 description: ""
 method: GET

@@ -1,9 +1,9 @@
 _id: req_85758972ac23424c9176d22d2eccd8e4
 type: Request
 parentId: fld_bf4b3f8ac507466ab7b607ae77100aac
-modified: 1684025913780
+modified: 1684158192250
 created: 1684019989170
-url: "{{ _.BASE_URL }}/reservations"
+url: "{{ _.RESERVATIONS_BASE_URL }}/reservations"
 name: Create
 description: ""
 method: POST

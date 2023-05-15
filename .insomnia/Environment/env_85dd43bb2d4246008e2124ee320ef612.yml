@@ -1,14 +1,16 @@
 _id: env_85dd43bb2d4246008e2124ee320ef612
 type: Environment
 parentId: env_e6e3b2e7a22369ba9d2a69519d0833350af92607
-modified: 1684019581225
+modified: 1684158283572
 created: 1684019537545
 name: LOCAL
 data:
-  BASE_URL: http://localhost:3000
+  RESERVATIONS_BASE_URL: http://localhost:3000
+  AUTH_BASE_URL: http://localhost:3001
 dataPropertyOrder:
   "&":
-    - BASE_URL
+    - RESERVATIONS_BASE_URL
+    - AUTH_BASE_URL
 color: "#3bb143"
 isPrivate: false
 metaSortKey: 1684019537546
